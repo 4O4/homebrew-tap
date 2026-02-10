@@ -2,7 +2,7 @@ cask "split-tunnel-enforcer" do
   version "0.1.0"
   sha256 "PLACEHOLDER"
 
-  url "https://github.com/4O4/harmony-split-tunnel-enforcer/releases/download/v#{version}/SplitTunnelEnforcer.dmg"
+  url "https://github.com/4O4/harmony-split-tunnel-enforcer/releases/download/v#{version}/HarmonySplitTunnelEnforcer.dmg"
   name "Split Tunnel Enforcer"
   desc "Enforce split tunneling for Harmony SASE VPN"
   homepage "https://github.com/4O4/harmony-split-tunnel-enforcer"
