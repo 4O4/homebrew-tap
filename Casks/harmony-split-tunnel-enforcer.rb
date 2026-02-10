@@ -1,4 +1,4 @@
-cask "split-tunnel-enforcer" do
+cask "harmony-split-tunnel-enforcer" do
   version "0.1.0"
   sha256 "5fb50c7720b29d67eec68778585106cc5967309a522eacef61e6d2a911b6b2e8"
 
