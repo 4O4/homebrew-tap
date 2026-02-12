@@ -1,6 +1,6 @@
 cask "harmony-split-tunnel-enforcer" do
-  version "0.3.0"
-  sha256 "e8d4dd5dbc375e1f50128a353bc418d5435c6170adea09985f72c03ca9fbb6db"
+  version "0.4.0"
+  sha256 "02a14584b26761d57e6178bdfe68a5d4e322e6d7d557522bd27f883b69a8a5d5"
 
   url "https://github.com/4O4/harmony-split-tunnel-enforcer/releases/download/v#{version}/HarmonySplitTunnelEnforcer.dmg"
   name "Harmony Split Tunnel Enforcer"
